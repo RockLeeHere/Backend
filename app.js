@@ -233,25 +233,20 @@ function search() {
 
 /* 
 Further features : 
-Keep thinkinng of adding more and more features, have its backup from time to time 
 
-thora si hi sahi react nodeJS api ka touch dedo thora sa taki bol sako ha use kia hai, kr raha abhi.
 1. Add title, make after showing notes editable.
 2. Mark a note as Imp.
 3. Separate notes by user.
 4. Sync and host to a web server.
 5. Add a user login logout. 
-6. Add nodeJS / react / api / socketIO / bootstrap / react everything into it.
+6. Add nodeJS / react / api / socketIO / bootstrap / react into it.
 7. Add github sign in 
 8. Set mood cheer up songs, vidoes, images database link.
 9. Add Chatbot for everything travel, fun, oneliners, mood setter, suggest youtube videos through apis.
-10. Do everything with single app.
+10. Add more features 
 11. Integrate DBMS.
-12. Use node js and everything into it.
-13. Make it very heavy project. 
 
-Improve it do whatever it takes.
-Integrate everything into it.
+Integrate other into it.
 Add github signin. 
 Add facebook / gmail / twitter signin.
 Use APIs to access it.
